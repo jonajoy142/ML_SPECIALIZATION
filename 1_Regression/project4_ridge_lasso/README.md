@@ -124,8 +124,8 @@ L1 forces some coefficients to become exactly zero, performing automatic feature
 
 | Method | Purpose | Simple Meaning |
 |---------|--------| -------------- |
-| Ridge (L2) | Reduce overfitting | “Shrink coefficients, smooth the model.” |
-| Lasso (L1) | Feature selection | “Delete useless features automatically.” |
+| Ridge (L2) | Reduce overfitting | Stop your model from being too wiggly. Shrink coefficients, smooth the model.  |
+| Lasso (L1) | Feature selection | “Delete useless features automatically. Keep only important features — throw away the rest |
 
 
 ### Real-World Example
