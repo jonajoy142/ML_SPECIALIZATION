@@ -132,9 +132,9 @@ Perfect — model learned exactly what we expect.
 
 ---
 
-## 🎯 6. Evaluation Metrics (Your Doubt Answered)
+## 🎯 6. Evaluation Metrics
 
-Your main question:
+main questions:
 
 “What are Precision, Recall, F1 Score and why weren’t they used in scratch implementation?”
 
