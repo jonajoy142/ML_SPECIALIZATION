@@ -167,9 +167,7 @@ Later real datasets need:
 
 ---
 
-### Q5: Is my understanding correct?
-
-Your understanding:
+### Q5: Your understanding?:
 
 > logistic regression is like linear regression but outputs 0/1 via sigmoid and threshold
 
