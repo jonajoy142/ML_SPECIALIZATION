@@ -120,6 +120,11 @@ L1 forces some coefficients to become exactly zero, performing automatic feature
 - ✅ **Removes irrelevant polynomial terms** - Simplifies high-degree models
 - ✅ **Stabilizes high-degree models** - Prevents overfitting through sparsity
 
+### One-line memory trick
+- Method	     Purpose	          Simple Meaning
+- Ridge (L2)	Reduce overfitting	“Shrink coefficients, smooth the model.”
+- Lasso (L1)	Feature selection	“Delete useless features automatically.”
+
 ### Real-World Example
 
 **Medical datasets with 200+ biomarkers:**
