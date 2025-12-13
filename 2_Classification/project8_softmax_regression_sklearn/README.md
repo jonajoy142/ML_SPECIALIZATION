@@ -238,6 +238,8 @@ The visualization shows:
 - Smooth decision boundaries
 - Well-defined classification regions
 
+![Softmax Regression Decision Boundaries](../project7_softmax_regression_scratch/plot_7.png)
+
 This indicates the model successfully learned the underlying patterns in the data.
 
 ## ❓ FAQ

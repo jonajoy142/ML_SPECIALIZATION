@@ -274,10 +274,12 @@ Accuracy: 0.95
 
 ### Decision Boundaries
 
-The visualization (`knn.png`) shows:
+The visualization shows:
 - Data points colored by their true class
 - Decision boundaries determined by KNN
 - Classification regions based on nearest neighbors
+
+![KNN Classification Decision Boundaries](./knn.png)
 
 The decision boundaries are typically:
 - Piecewise linear or curved
